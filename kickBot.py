@@ -8,7 +8,7 @@ __date__ = "$19-dic-2016 11.45.30$"
 import telepot
 import time
 
-bot = telepot.Bot('305631478:AAE0_VCwW3qUD6i4WNA2IcVVPwevLqlKLUs')
+bot = telepot.Bot('XXX')
 print(bot.getMe())
 users = list()
 
